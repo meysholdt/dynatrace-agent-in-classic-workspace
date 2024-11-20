@@ -1,4 +1,4 @@
-# dynatrace-agent-classic
+# Dynatrace OneAgent in Gitpod Workspaces
 
 This PoC demonstrates running a Dynatrace OneAgent in a Gitpod workspace.
 
